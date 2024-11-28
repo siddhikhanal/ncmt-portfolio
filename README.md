@@ -41,7 +41,7 @@ padding: 10px;
 <div class="section">
 <h2>About Me</h2>
 
-<p>Introduce yourself as a tech student</p>
+<p> Myself siddhishree khanal. I am a 3rd sem students pursuing Bachelor degree in Information at Ncmt </p>
 </div>
 <div class="section">
 <h2>Skills</h2>
@@ -63,8 +63,8 @@ padding: 10px;
 </div>
 <div class="section A">
 <h2>Contact</h2>
-<p>Email: Kh.siddhishree23@ncmt.com</p>
-<p>GitHub: github.com/yourusername</p>
+<p>Email: kh.siddhishree23@ncmt.edu.np</p>
+<p>GitHub: https://github.com/siddhikhanal/ncmt-portfolio/</p>
 </div>
 </div>
 </body>
