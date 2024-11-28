@@ -1,1 +1,1 @@
-git remote add origin https://github.com/your-username/my-website.git
+git remote add origin https://github.com/siddhikhanal/ncmt-portfolio/edit/main/README.md
